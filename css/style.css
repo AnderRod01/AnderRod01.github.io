@@ -70,10 +70,10 @@ footer div{
 
 .botonSecundario{
     font-size: 1.2em;
-    border: #454584 solid 3px;
+    border: #24194a solid 3px;
     border-radius: 15px;
     padding: 4px 25px;
-    color: #454584;
+    color: #24194a;
     text-decoration: none;
     background-color:#c1c1e5 ;
     transition: all 0.5s;
@@ -143,11 +143,11 @@ form textarea{
 
 .botonSecundario:hover{
     color: #d9bf84;
-    background-color:#454584 ;
+    background-color:#2d2d77 ;
 }
 
 form input{
-    border: #454584 solid 2px;
+    border: #2d2d77 solid 2px;
     border-radius: 10px;
     background-color: #c1c1e5;
     padding: 0px 5px;
@@ -162,10 +162,10 @@ font input:focus{
 
 #enviar{
     font-size: 1.2em;
-    border: #454584 solid 3px;
+    border: #2d2d77 solid 3px;
     border-radius: 15px;
     padding: 4px 25px;
-    color: #454584;
+    color: #2d2d77;
     text-decoration: none;
     background-color:#c1c1e5 ;
     transition: all 0.5s;
@@ -177,10 +177,10 @@ font input:focus{
 }
 
 textarea{
-    border: #454584 solid 3px;
+    border: #2d2d77 solid 3px;
     border-radius: 15px;
     padding: 4px 25px;
-    color: #454584;
+    color: #2d2d77;
     text-decoration: none;
     background-color:#c1c1e5 ;
     font-family: fuenteTexto;
@@ -217,12 +217,12 @@ footer img{
 
 #enviar:hover{
     color: #d9bf84;
-    background-color:#454584 ;
+    background-color:#2d2d77 ;
     cursor: pointer;
 }
 
 h1{
-    color: #454584;
+    color: #2d2d77;
     text-shadow: #24194a 1px 1px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -266,12 +266,12 @@ p{
     margin: 5px;
     width: fit-content;
     font-size: 1em;
-    border: #454584 solid 3px;
+    border: #2d2d77 solid 3px;
     border-radius: 15px;
     padding: 4px 10px;
     color: #d9bf84;
     text-decoration: none;
-    background-color:#454584 ;
+    background-color:#2d2d77 ;
     transition: all 0.5s;
     text-shadow: #24194a 1px 1px 1px;
     letter-spacing: 2px;
@@ -304,7 +304,7 @@ p{
 
 @media screen and (max-width:549px){
     
-    /* #d9bf84 #c1c1e5 #454584 #24194a*/
+    /* #d9bf84 #c1c1e5 #2d2d77 #24194a*/
     
     .botonPrincipal:hover{
         width: 80%;
@@ -316,7 +316,7 @@ p{
     #contacto:hover{
         border: none;
         color: #d9bf84;
-        background-color:#454584 ;
+        background-color:#24194a ;
     }
     
     footer{
@@ -462,7 +462,7 @@ p{
     .botonSecundario:hover{
         border: none;
         color: #d9bf84;
-        background-color:#454584 ;
+        background-color:#24194a ;
     }
     .botonPrincipal:hover{
         width: 80%;
