@@ -143,11 +143,11 @@ form textarea{
 
 .botonSecundario:hover{
     color: #d9bf84;
-    background-color:#2d2d77 ;
+    background-color:#29296E ;
 }
 
 form input{
-    border: #2d2d77 solid 2px;
+    border: #29296E solid 2px;
     border-radius: 10px;
     background-color: #c1c1e5;
     padding: 0px 5px;
@@ -162,10 +162,10 @@ font input:focus{
 
 #enviar{
     font-size: 1.2em;
-    border: #2d2d77 solid 3px;
+    border: #29296E solid 3px;
     border-radius: 15px;
     padding: 4px 25px;
-    color: #2d2d77;
+    color: #29296E;
     text-decoration: none;
     background-color:#c1c1e5 ;
     transition: all 0.5s;
@@ -177,10 +177,10 @@ font input:focus{
 }
 
 textarea{
-    border: #2d2d77 solid 3px;
+    border: #29296E solid 3px;
     border-radius: 15px;
     padding: 4px 25px;
-    color: #2d2d77;
+    color: #29296E;
     text-decoration: none;
     background-color:#c1c1e5 ;
     font-family: fuenteTexto;
@@ -217,12 +217,12 @@ footer img{
 
 #enviar:hover{
     color: #d9bf84;
-    background-color:#2d2d77 ;
+    background-color:#29296E ;
     cursor: pointer;
 }
 
 h1{
-    color: #2d2d77;
+    color: #29296E;
     text-shadow: #24194a 1px 1px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -266,12 +266,12 @@ p{
     margin: 5px;
     width: fit-content;
     font-size: 1em;
-    border: #2d2d77 solid 3px;
+    border: #29296E solid 3px;
     border-radius: 15px;
     padding: 4px 10px;
     color: #d9bf84;
     text-decoration: none;
-    background-color:#2d2d77 ;
+    background-color:#29296E ;
     transition: all 0.5s;
     text-shadow: #24194a 1px 1px 1px;
     letter-spacing: 2px;
@@ -304,7 +304,7 @@ p{
 
 @media screen and (max-width:549px){
     
-    /* #d9bf84 #c1c1e5 #2d2d77 #24194a*/
+    /* #d9bf84 #c1c1e5 #29296E #24194a*/
     
     .botonPrincipal:hover{
         width: 80%;
