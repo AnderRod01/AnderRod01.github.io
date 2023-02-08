@@ -83,6 +83,16 @@ footer div{
 
 }
 
+#container-toggle{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    
+}
+
+#container-toggle > button{
+    font-family: fuenteEspecial;
+}
 
 #container{
     background-image: linear-gradient(to top, transparent 10%, #c1c1e5);

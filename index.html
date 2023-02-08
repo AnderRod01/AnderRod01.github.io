@@ -9,6 +9,8 @@
     <link rel="icon" type="image/x-icon" href="img/logo.png"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" integrity="sha512-xh6O/CkQoPOWDdYTDqeRdPCVd1SpvCA9XXcUnZS2FmJNp1coAFzvtCN9BmamE+4aHK8yyUHUSCcJHgXloTyT2A==" crossorigin="anonymous" referrerpolicy="no-referrer">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <title>Lakerie</title>
 </head>
 <body>
@@ -17,10 +19,10 @@
             <div class="index"><img id="logo" alt="logo" src="img/logo.png"></div>
         </header>
         <main>
-            <section>
+            <section aria-label="menu principal" role="menu">
                 <ul>
-                    <li><a href="files/portfolio.html"><img class="botonPrincipal" src="./img/boton.png" alt="BotonPortfolio"></a></li>
-                    <li><a href="files/precios.html"><img class="botonPrincipal" src="./img/precios.png" alt="BotonPrecio"></a></li>
+                    <li role="menuitem"><a href="files/portfolio.html"><img class="botonPrincipal" src="./img/boton.png" alt="BotonPortfolio"></a></lir>
+                    <li role="menuitem"><a href="files/precios.html"><img class="botonPrincipal" src="./img/precios.png" alt="BotonPrecio"></a></li>
                 </ul>
             </section>
         </main>
@@ -33,6 +35,9 @@
                 <li><a href="https://ko-fi.com"><img class="iconoRedes" src="img/kofi.png" alt="Ko-fi" ></a></li>
                 <li><a href="https://telegram.org"><img class="iconoRedes" src="img/telegram.png" alt="Telegram" ></a></li>
             </ul>
+            <div id="container-toggle" class="active">
+                <button class="botonSecundario" id="toggle">Cambiar colores</button>
+            </div>
         </footer>
     </div>
 </body>
